@@ -1,0 +1,14 @@
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\bin\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.exe
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\bin\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.deps.json
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\bin\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.runtimeconfig.json
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\bin\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.runtimeconfig.dev.json
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\bin\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.dll
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\bin\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.pdb
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.csproj.AssemblyReference.cache
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.AssemblyInfoInputs.cache
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.AssemblyInfo.cs
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.csproj.CoreCompileInputs.cache
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.dll
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.pdb
+C:\Users\KAAUTI\source\repos\OOPCSharpAssignment5.3\OOPCSharpAssignment5.3\obj\Debug\netcoreapp3.1\OOPCSharpAssignment5.3.genruntimeconfig.cache
